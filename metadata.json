@@ -1,0 +1,6 @@
+{
+  "name": "PDF Editor",
+  "description": "Applicazione desktop-style moderna per unire, riordinare e personalizzare file PDF in modo rapido e sicuro direttamente nel browser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

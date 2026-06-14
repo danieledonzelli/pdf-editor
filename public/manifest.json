@@ -1,0 +1,21 @@
+{
+  "short_name": "PDF Editor",
+  "name": "PDF Editor - Unisci & Modifica PDF",
+  "icons": [
+    {
+      "src": "/src/assets/images/pdf-editor-icon.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/src/assets/images/pdf-editor-icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "theme_color": "#4f46e5",
+  "display": "standalone"
+}
